@@ -10,13 +10,16 @@ dependencies:
   get: 4.6.5
   flutter: 
     sdk: flutter
-#  google_fonts: ^4.0.3
-#  dartz: ^0.10.1
-#  shimmer: ^2.0.0
-#  connectivity_plus: ^4.0.1
-#  intl:
-#  flutter_screenutil: ^5.7.0
-#  platform:
+
+  google_fonts: ^4.0.3
+  dartz: ^0.10.1
+  shimmer: ^2.0.0
+  connectivity_plus: ^4.0.1
+  intl:
+  percent_indicator: ^4.2.3
+  intl_translation:
+  flutter_datetime_picker_bdaya: ^3.0.2
+  http: any
 
 dev_dependencies: 
   flutter_lints: ^2.0.0
