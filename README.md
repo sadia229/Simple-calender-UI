@@ -1,6 +1,7 @@
-# sadiaassignmentproject
-![Screenshot_20240713_015129](https://github.com/user-attachments/assets/21ee6a89-d76e-4ff9-b330-47c8318e897b)
-![Screenshot_20240713_015056](https://github.com/user-attachments/assets/3648fb1e-a9a6-494d-ae3a-e4b579dd3b11)
-![Screenshot_20240713_015034](https://github.com/user-attachments/assets/f5fdee1e-7d23-4870-83a1-cf5fc488c697)
-![Screenshot_20240713_015014](https://github.com/user-attachments/assets/e023df0f-c561-40ea-b867-16b6d31bcfd1)
-![Screenshot_20240713_014938](https://github.com/user-attachments/assets/2cce29c5-a129-414a-aa66-b996b3aec648)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/21ee6a89-d76e-4ff9-b330-47c8318e897b" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/3648fb1e-a9a6-494d-ae3a-e4b579dd3b11" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/f5fdee1e-7d23-4870-83a1-cf5fc488c697" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/e023df0f-c561-40ea-b867-16b6d31bcfd1" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/2cce29c5-a129-414a-aa66-b996b3aec648" width="200" height="200" />
+</p>
